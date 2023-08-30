@@ -3,7 +3,7 @@
 # Running
  pip install pygame
 # Controls
- Left: Move left
- Right: Move right
- Space: Shoot bullet
- A: Restart the game
+ Left: Move left  
+ Right: Move right  
+ Space: Shoot bullet  
+ A: Restart the game  
