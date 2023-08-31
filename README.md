@@ -36,9 +36,9 @@
 - Objects have different sizes and can rotate as they fall.
 - Shooting an object earns you points.
 ## Power-Ups
-- There are two types of power-ups: </strong>Shield</strong> and </strong>Gun</strong>.
-- Collecting a </strong>Shield</strong> power-up restores daddy's health.
-- Collecting a </strong>Gun</strong> power-up temporarily upgrades daddy's shooting abilities to fire multiple bullets
+- There are two types of power-ups: <strong>Shield</strong> and <strong>Gun</strong>.
+- Collecting a <strong>Shield</strong> power-up restores daddy's health.
+- Collecting a <strong>Gun</strong> power-up temporarily upgrades daddy's shooting abilities to fire multiple bullets
 ## Scoring
 - You earn points by shooting down falling objects.
 - The larger the object, the more points you earn.
