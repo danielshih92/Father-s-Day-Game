@@ -50,6 +50,6 @@
 # Screenshots
   
 # License
-This project is licensed under the MIT License - see the [License](https://docs.github.com/en/rest/licenses/licenses?apiVersion=2022-11-28){:target="_blank"} file for details.  
+This project is licensed under the MIT License - see the [License](https://docs.github.com/en/rest/licenses/licenses?apiVersion=2022-11-28) file for details.  
   
 Enjoy playing 老爸戰爭! If you have any questions or feedback, feel free to reach out. Happy gaming!
