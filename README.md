@@ -15,9 +15,9 @@
 
 # Installation
 1. Install the required Python libraries. You can use pip to install Pygame.  
-- pip install pygame
+  - pip install pygame
 2. Run the game.
-- python main.py  
+  - python main.py  
 # How to Play
 ## Controls
 - Use the <strong>Left</strong> and <strong>Right</strong> arrow keys to move the player character (老爸) horizontally.
