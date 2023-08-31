@@ -20,10 +20,10 @@
 - python main.py  
 # How to Play
 ## Controls
-- Use the <strong>Left</strong></p> and <strong>Right</strong></p> arrow keys to move the player character (老爸) horizontally.
-- Press the <strong>Spacebar</strong></p> to shoot bullets at the falling objects.
+- Use the <strong>Left</strong> and <strong>Right</strong> arrow keys to move the player character (老爸) horizontally.
+- Press the <strong>Spacebar</strong> to shoot bullets at the falling objects.
 - Your goal is to shoot down as many falling objects as possible and avoid collisions with them.
-- When the game ends, you can press 'A' to restart the game
+- When the game ends, you can press </strong>'A'</strong> to restart the game
 # Game features
 ## Player Character
 - The player character is represented by "老爸" (Daddy).
@@ -36,9 +36,9 @@
 - Objects have different sizes and can rotate as they fall.
 - Shooting an object earns you points.
 ## Power-Ups
-- There are two types of power-ups: Shield and Gun.
-- Collecting a Shield power-up restores daddy's health.
-- Collecting a Gun power-up temporarily upgrades daddy's shooting abilities to fire multiple bullets
+- There are two types of power-ups: </strong>Shield</strong> and </strong>Gun</strong>.
+- Collecting a </strong>Shield</strong> power-up restores daddy's health.
+- Collecting a </strong>Gun</strong> power-up temporarily upgrades daddy's shooting abilities to fire multiple bullets
 ## Scoring
 - You earn points by shooting down falling objects.
 - The larger the object, the more points you earn.
