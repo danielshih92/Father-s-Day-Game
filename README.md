@@ -48,7 +48,7 @@
 - As you progress through the levels, the speed and complexity of falling objects increase.
 - There is also an "impossible" level for the most skilled players.
 
-### Screenshots2 :
+# Screenshots
 <table width="100%"> 
 <tr>
 <td width="25%">      
