@@ -47,25 +47,6 @@
 - The game has multiple levels, with increasing difficulty.
 - As you progress through the levels, the speed and complexity of falling objects increase.
 - There is also an "impossible" level for the most skilled players.
-### Screenshots :
-<table width="100%"> 
-<tr>
-<td width="50%">      
-&nbsp; 
-<br>
-<p align="center">
-  Gameplay figure_1
-</p>
-<img src="https://i.imgur.com/oxNJp5N.png">
-</td> 
-<td width="50%">
-<br>
-<p align="center">
-  Gameplay figure_2
-</p>
-<img src="https://i.imgur.com/slKZ3Cb.png">  
-</td>
-</table>
 
 ### Screenshots2 :
 <table width="100%"> 
@@ -74,30 +55,30 @@
 &nbsp; 
 <br>
 <p align="center">
+  Home page
+</p>
+<img src="https://i.imgur.com/r0iywlg.png">
+</td> 
+<td width="25%">
+<br>
+<p align="center">
+  Ending page
+</p>
+<img src="https://i.imgur.com/Fegeizy.png">  
+</td>
+<td width="25%">
+<br>
+<p align="center">
   Gameplay figure_1
 </p>
-<img src="https://i.imgur.com/oxNJp5N.png">
-</td> 
+<img src="https://i.imgur.com/oxNJp5N.png">  
+</td>
 <td width="25%">
 <br>
 <p align="center">
   Gameplay figure_2
 </p>
 <img src="https://i.imgur.com/slKZ3Cb.png">  
-</td>
-<td width="25%">
-<br>
-<p align="center">
-  Gameplay figure_3
-</p>
-<img src="https://i.imgur.com/r0iywlg.png">  
-</td>
-<td width="25%">
-<br>
-<p align="center">
-  Gameplay figure_4
-</p>
-<img src="https://i.imgur.com/Fegeizy.png">  
 </td>
 </tr>
 </table>
