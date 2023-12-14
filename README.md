@@ -67,6 +67,41 @@
 </td>
 </table>
 
+### Screenshots2 :
+<table width="100%"> 
+<tr>
+<td width="25%">      
+&nbsp; 
+<br>
+<p align="center">
+  Gameplay figure_1
+</p>
+<img src="https://i.imgur.com/oxNJp5N.png">
+</td> 
+<td width="25%">
+<br>
+<p align="center">
+  Gameplay figure_2
+</p>
+<img src="https://i.imgur.com/slKZ3Cb.png">  
+</td>
+<td width="25%">
+<br>
+<p align="center">
+  Gameplay figure_3
+</p>
+<img src="https://i.imgur.com/r0iywlg.png">  
+</td>
+<td width="25%">
+<br>
+<p align="center">
+  Gameplay figure_4
+</p>
+<img src="https://i.imgur.com/Fegeizy.png">  
+</td>
+</tr>
+</table>
+
 # License
 This project is licensed under the MIT License - see the [License](https://docs.github.com/en/rest/licenses/licenses?apiVersion=2022-11-28) file for details.  
   
