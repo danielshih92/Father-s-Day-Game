@@ -11,7 +11,8 @@
   - Scoring
   - Levels
 * Screenshots
-* License  
+* License
+* Demo video
 
 # Installation
 1. Install the required Python libraries. You can use pip to install Pygame.  
