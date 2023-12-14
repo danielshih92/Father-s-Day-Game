@@ -47,8 +47,26 @@
 - The game has multiple levels, with increasing difficulty.
 - As you progress through the levels, the speed and complexity of falling objects increase.
 - There is also an "impossible" level for the most skilled players.
-# Screenshots
-  
+### Screenshots :
+<table width="100%"> 
+<tr>
+<td width="50%">      
+&nbsp; 
+<br>
+<p align="center">
+  Feed Home
+</p>
+<img src="https://i.imgur.com/oxNJp5N.png">
+</td> 
+<td width="50%">
+<br>
+<p align="center">
+  Room Conversation Preview
+</p>
+<img src="https://i.imgur.com/slKZ3Cb.png">  
+</td>
+</table>
+
 # License
 This project is licensed under the MIT License - see the [License](https://docs.github.com/en/rest/licenses/licenses?apiVersion=2022-11-28) file for details.  
   
