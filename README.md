@@ -54,14 +54,14 @@
 &nbsp; 
 <br>
 <p align="center">
-  Feed Home
+  Gameplay figure_1
 </p>
 <img src="https://i.imgur.com/oxNJp5N.png">
 </td> 
 <td width="50%">
 <br>
 <p align="center">
-  Room Conversation Preview
+  Gameplay figure_2
 </p>
 <img src="https://i.imgur.com/slKZ3Cb.png">  
 </td>
